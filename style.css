@@ -33,6 +33,7 @@ body {
 
 
 .content {
+  max-width: 1200px; 
   text-align: center;
   padding: 2em;
   border-radius: 10px;
@@ -57,7 +58,7 @@ body {
   overflow: hidden;
   white-space: normal;      /* allow wrapping */
   word-wrap: break-word;    /* wrap long words if needed */
-  text-align: left;         /* optional for better paragraph formatting */
+  text-align: center;         /* optional for better paragraph formatting */
   transition: background 0.3s ease;
 }
 
